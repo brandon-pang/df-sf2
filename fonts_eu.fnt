@@ -1,0 +1,12 @@
+﻿Michroma, 431 glyphs (I4)
+Nanum Pen Script, 3328 glyphs (I7)
+Arial Unicode MS, 4611 glyphs (I1)
+
+
+Textfield default text (font id)
+
+"$NormalFont - 나눔고딕 - 안녕하세요. \\\(Hi)♩♪" - I1
+"$BankFont - BankGothic Md Bt %" - I4
+"Title and Normal Font" - I1
+"$HandyFont - 나눔손글씨 펜 - 안녕하세요. (Hi)" - I7
+"$TitleFont - 나눔고딕 ExtraBold - 안녕하세요. (Hi)\\\\" - I1

@@ -1,0 +1,4 @@
+gfxexport -fonts -strip_font_shapes -fts 512 fonts_tw.swf
+
+gfxexport -fc -fcm -fcl128 -strip_font_shapes fonts_ch.swf
+

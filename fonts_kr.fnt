@@ -1,0 +1,14 @@
+﻿08SeoulNamsan EB, 12095 glyphs (I1)
+Arial Unicode MS, 115 glyphs (I7)
+Nanum Pen Script, 3310 glyphs (I9)
+08SeoulNamsan B, 16983 glyphs (I3)
+Michroma, 215 glyphs (I5)
+
+
+Textfield default text (font id)
+
+"$TitleFont - 나눔고딕 ExtraBold - 안녕하세요. (Hi)" - I1
+"$BankFont - BankGothic Md Bt10%%%%%%%" - I5
+"Title and Normal Font" - I7
+"$HandyFont - 나눔손글씨 펜 - 안녕하세요. (Hi)" - I9
+"$NormalFont - 나눔고딕 - 안녕하세요. (Hi)♩♪" - I3
